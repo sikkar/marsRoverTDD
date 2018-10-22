@@ -67,7 +67,7 @@ class MarsRoverPresenterTests: XCTestCase {
         }
 
         func clearCommands() {
-
+            // Commit
         }
 
         func enableExecuteButton(_ enable: Bool) {
