@@ -7,30 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		09FE6C699DF4F3E6C6CE1E674F0571CB /* Pods-MarsRoverTDDTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A816C4CA50BD51A903CC3B793A8AFFC2 /* Pods-MarsRoverTDDTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		144DEAADBE3FCF465B03DEA7482E099B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		34D246E66C3C7034F68DC29C97CA00BE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		593AD1E2C7A71A8C96D3257625BADCDE /* Pods-MarsRoverTDDUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 07951DDDCF992B67A682EE5AE9EAD58C /* Pods-MarsRoverTDDUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8FE0BC8A81E77DB302545DC4B9963BCB /* Pods-MarsRoverTDD-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C2FCF151A3496A8F293127C60DA9FB1 /* Pods-MarsRoverTDD-dummy.m */; };
-		B0651470C389BFC6C6F0A814269FA187 /* Pods-MarsRoverTDD-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 88268B0FB089CC534BE637A492D15366 /* Pods-MarsRoverTDD-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CC9DCB860FEBC3ED1861935885C34F70 /* Pods-MarsRoverTDDUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EAEDC6AA174EBD297CFBDF9D28F9B9D5 /* Pods-MarsRoverTDDUITests-dummy.m */; };
-		D313DF6FEEC22AE04D364DFB73F1AAD4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		DB06BFF47A61E8C7E3A745F7CE9C5E7B /* Pods-MarsRoverTDDTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E09644A38162DD0155B7F505FC1E06 /* Pods-MarsRoverTDDTests-dummy.m */; };
+		3BAA18AEF6897E1F23A6210448C1B1C4 /* Pods-MarsRoverTDDTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A816C4CA50BD51A903CC3B793A8AFFC2 /* Pods-MarsRoverTDDTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6E6C31B1F7DF0732B1F15F29B768467C /* Pods-MarsRoverTDD-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C2FCF151A3496A8F293127C60DA9FB1 /* Pods-MarsRoverTDD-dummy.m */; };
+		7A0DF81952880FD3A6121561DC512884 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */; };
+		9F85ACBBBB203528BA75778F01959080 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */; };
+		A1367FEAABCFFEEA6718A109D9B6E50F /* Pods-MarsRoverTDDUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 07951DDDCF992B67A682EE5AE9EAD58C /* Pods-MarsRoverTDDUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AA25E99B64297DECE1C66B3C7755830B /* Pods-MarsRoverTDDUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EAEDC6AA174EBD297CFBDF9D28F9B9D5 /* Pods-MarsRoverTDDUITests-dummy.m */; };
+		B6ACB4B870B53101AA86560BD3BF5FE0 /* Pods-MarsRoverTDDTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E09644A38162DD0155B7F505FC1E06 /* Pods-MarsRoverTDDTests-dummy.m */; };
+		C8ED8266EFA203E4EBDC18B87059F230 /* Pods-MarsRoverTDD-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 88268B0FB089CC534BE637A492D15366 /* Pods-MarsRoverTDD-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA80EB08584FBFB2A3440F0A1449A37D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		6306521893D6A27C23AB66C90B26FFF9 /* PBXContainerItemProxy */ = {
+		137396825DE8334E09D61D8EFC9C2DEF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = CEA16A7752454F71C4F4DDC171CBB024;
+			remoteGlobalIDString = 4DD5DFE6739874BEE6678F4F36658F7E;
 			remoteInfo = "Pods-MarsRoverTDD";
 		};
-		C3DC7FECE7BB8B600286C4618371122F /* PBXContainerItemProxy */ = {
+		7A5C4352A8ECD37142443E71589B7193 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = CEA16A7752454F71C4F4DDC171CBB024;
+			remoteGlobalIDString = 4DD5DFE6739874BEE6678F4F36658F7E;
 			remoteInfo = "Pods-MarsRoverTDD";
 		};
 /* End PBXContainerItemProxy section */
@@ -50,7 +50,6 @@
 		5FE79B773943248B844DE6A7B463B8C4 /* Pods-MarsRoverTDDTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MarsRoverTDDTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		621C10A6CA3EB3B7D9C7E0B1A0764B29 /* Pods-MarsRoverTDDTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MarsRoverTDDTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		6309E8B1750DCFDB66ABD0AB4FD078C2 /* Pods-MarsRoverTDD-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MarsRoverTDD-resources.sh"; sourceTree = "<group>"; };
-		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		681DCEC78F7456127713C13F77211C87 /* Pods-MarsRoverTDDUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MarsRoverTDDUITests-frameworks.sh"; sourceTree = "<group>"; };
 		69B98CFB45D61BD7425E5EDEA2762961 /* Pods_MarsRoverTDDTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MarsRoverTDDTests.framework; path = "Pods-MarsRoverTDDTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		74F6401EBDEE05D67F0638E0A76814F7 /* Pods-MarsRoverTDDTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MarsRoverTDDTests.modulemap"; sourceTree = "<group>"; };
@@ -66,6 +65,7 @@
 		B33189624B660DD6950481A518483603 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B5DC122A29E06BF73126E447731D5B05 /* Pods-MarsRoverTDD.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MarsRoverTDD.modulemap"; sourceTree = "<group>"; };
 		CE6441C2DEDB5318EFB22FD1983F92C3 /* Pods_MarsRoverTDDUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MarsRoverTDDUITests.framework; path = "Pods-MarsRoverTDDUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		DFE9594FF7D46278314CF5457B92F080 /* Pods-MarsRoverTDDUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MarsRoverTDDUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		EAEDC6AA174EBD297CFBDF9D28F9B9D5 /* Pods-MarsRoverTDDUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MarsRoverTDDUITests-dummy.m"; sourceTree = "<group>"; };
 		EE0422BB0E6CB6D9A3DCDDED4B838C21 /* Pods-MarsRoverTDD.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MarsRoverTDD.debug.xcconfig"; sourceTree = "<group>"; };
@@ -74,27 +74,27 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3066FFD01C25D3CB99B504EC56D3B39E /* Frameworks */ = {
+		196E99C02AE406BF2241EA842C13E7C7 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				144DEAADBE3FCF465B03DEA7482E099B /* Foundation.framework in Frameworks */,
+				7A0DF81952880FD3A6121561DC512884 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9914EDF14AF7758626811E364383B7E2 /* Frameworks */ = {
+		27868C56BB6311D0C717BA252150085A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				34D246E66C3C7034F68DC29C97CA00BE /* Foundation.framework in Frameworks */,
+				9F85ACBBBB203528BA75778F01959080 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D5E45955EA5A1BD560D3B3F3F963BF8B /* Frameworks */ = {
+		3A0947E603A5A276A001459F12D3EB2F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D313DF6FEEC22AE04D364DFB73F1AAD4 /* Foundation.framework in Frameworks */,
+				FA80EB08584FBFB2A3440F0A1449A37D /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -125,6 +125,14 @@
 			);
 			name = SwiftLint;
 			path = SwiftLint;
+			sourceTree = "<group>";
+		};
+		44D5347904CF754D6785B84253F2574A /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */,
+			);
+			name = iOS;
 			sourceTree = "<group>";
 		};
 		49F004D6E555FB5332CC46FFC32C27C0 /* Products */ = {
@@ -187,17 +195,9 @@
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				D35AF013A5F0BAD4F32504907A52519E /* iOS */,
+				44D5347904CF754D6785B84253F2574A /* iOS */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */,
-			);
-			name = iOS;
 			sourceTree = "<group>";
 		};
 		DBAC30799DDD8765158C486CF0430EC0 /* Pods-MarsRoverTDDUITests */ = {
@@ -221,76 +221,41 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		6856036BE66894311BF8FD070DF4A7E4 /* Headers */ = {
+		19E147003641E91F1B92BB989CE532B5 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				09FE6C699DF4F3E6C6CE1E674F0571CB /* Pods-MarsRoverTDDTests-umbrella.h in Headers */,
+				3BAA18AEF6897E1F23A6210448C1B1C4 /* Pods-MarsRoverTDDTests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9D0BD1B62FBD30E6AF76C44E3618E795 /* Headers */ = {
+		34660F4ED23FE64BDC9596DDA75F4784 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				593AD1E2C7A71A8C96D3257625BADCDE /* Pods-MarsRoverTDDUITests-umbrella.h in Headers */,
+				A1367FEAABCFFEEA6718A109D9B6E50F /* Pods-MarsRoverTDDUITests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E127CE167781B924A6D769E547E2099F /* Headers */ = {
+		9F82B20540D9F47C7EF394C51A6DCFB9 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B0651470C389BFC6C6F0A814269FA187 /* Pods-MarsRoverTDD-umbrella.h in Headers */,
+				C8ED8266EFA203E4EBDC18B87059F230 /* Pods-MarsRoverTDD-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		8A5C4462A59880DF615E732CF1A2D8A8 /* Pods-MarsRoverTDDTests */ = {
+		4DD5DFE6739874BEE6678F4F36658F7E /* Pods-MarsRoverTDD */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A824FF487FE1F910BE3F8007EF4FD2D3 /* Build configuration list for PBXNativeTarget "Pods-MarsRoverTDDTests" */;
+			buildConfigurationList = B006F315C27BDE212C0DF894A04845BA /* Build configuration list for PBXNativeTarget "Pods-MarsRoverTDD" */;
 			buildPhases = (
-				66044F4D486DD6531C35431B83718D57 /* Sources */,
-				D5E45955EA5A1BD560D3B3F3F963BF8B /* Frameworks */,
-				6856036BE66894311BF8FD070DF4A7E4 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				222A8E21248B74D06CA932BDC054631C /* PBXTargetDependency */,
-			);
-			name = "Pods-MarsRoverTDDTests";
-			productName = "Pods-MarsRoverTDDTests";
-			productReference = 69B98CFB45D61BD7425E5EDEA2762961 /* Pods_MarsRoverTDDTests.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		9EB45DF9A2E8B389DDEE46CA505B95AA /* Pods-MarsRoverTDDUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = CFA153A08A8274FF4B37864BECA20D61 /* Build configuration list for PBXNativeTarget "Pods-MarsRoverTDDUITests" */;
-			buildPhases = (
-				B1305B38C6D8AC2B067278399D1B3171 /* Sources */,
-				9914EDF14AF7758626811E364383B7E2 /* Frameworks */,
-				9D0BD1B62FBD30E6AF76C44E3618E795 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				B960AA90A93577A5AE31196F9D9B5AC7 /* PBXTargetDependency */,
-			);
-			name = "Pods-MarsRoverTDDUITests";
-			productName = "Pods-MarsRoverTDDUITests";
-			productReference = CE6441C2DEDB5318EFB22FD1983F92C3 /* Pods_MarsRoverTDDUITests.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		CEA16A7752454F71C4F4DDC171CBB024 /* Pods-MarsRoverTDD */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 1BFB0E53C07E7FC2B87385F52B932AC0 /* Build configuration list for PBXNativeTarget "Pods-MarsRoverTDD" */;
-			buildPhases = (
-				CC4BB109B16AF96DDF72C2A8A28516CB /* Sources */,
-				3066FFD01C25D3CB99B504EC56D3B39E /* Frameworks */,
-				E127CE167781B924A6D769E547E2099F /* Headers */,
+				9F82B20540D9F47C7EF394C51A6DCFB9 /* Headers */,
+				7F64CFB607B98A819DAA4B20169F1848 /* Sources */,
+				196E99C02AE406BF2241EA842C13E7C7 /* Frameworks */,
+				8D53E314C358B513FBDFFD1A2B9EE526 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -299,6 +264,44 @@
 			name = "Pods-MarsRoverTDD";
 			productName = "Pods-MarsRoverTDD";
 			productReference = 3A6E3325B53AF0A3BB8C244B56C1F261 /* Pods_MarsRoverTDD.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		85EA6C22D7F5A654D86E3EF7C21763DE /* Pods-MarsRoverTDDTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CBADCF23C43BDBC5372A86294B519855 /* Build configuration list for PBXNativeTarget "Pods-MarsRoverTDDTests" */;
+			buildPhases = (
+				19E147003641E91F1B92BB989CE532B5 /* Headers */,
+				D9C7DFF215D11AA8AD85790F5EDE48DB /* Sources */,
+				3A0947E603A5A276A001459F12D3EB2F /* Frameworks */,
+				DE9DBA6AE7AA8FBC114751EC3EAE509E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EABE17F1BD234C3E3799C585CF509E0B /* PBXTargetDependency */,
+			);
+			name = "Pods-MarsRoverTDDTests";
+			productName = "Pods-MarsRoverTDDTests";
+			productReference = 69B98CFB45D61BD7425E5EDEA2762961 /* Pods_MarsRoverTDDTests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		C6D0DB41EDF479E3457AB17A8CA348C9 /* Pods-MarsRoverTDDUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 73C20AAA3EAA627779CB42B55ED9017C /* Build configuration list for PBXNativeTarget "Pods-MarsRoverTDDUITests" */;
+			buildPhases = (
+				34660F4ED23FE64BDC9596DDA75F4784 /* Headers */,
+				C06C2B1C7C6080601494FF1B52B68693 /* Sources */,
+				27868C56BB6311D0C717BA252150085A /* Frameworks */,
+				9A34E0F5E076233FDF299EED4450E835 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				740747F7111E1FEC5111A497FCDA8298 /* PBXTargetDependency */,
+			);
+			name = "Pods-MarsRoverTDDUITests";
+			productName = "Pods-MarsRoverTDDUITests";
+			productReference = CE6441C2DEDB5318EFB22FD1983F92C3 /* Pods_MarsRoverTDDUITests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -322,59 +325,83 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CEA16A7752454F71C4F4DDC171CBB024 /* Pods-MarsRoverTDD */,
-				8A5C4462A59880DF615E732CF1A2D8A8 /* Pods-MarsRoverTDDTests */,
-				9EB45DF9A2E8B389DDEE46CA505B95AA /* Pods-MarsRoverTDDUITests */,
+				4DD5DFE6739874BEE6678F4F36658F7E /* Pods-MarsRoverTDD */,
+				85EA6C22D7F5A654D86E3EF7C21763DE /* Pods-MarsRoverTDDTests */,
+				C6D0DB41EDF479E3457AB17A8CA348C9 /* Pods-MarsRoverTDDUITests */,
 			);
 		};
 /* End PBXProject section */
 
+/* Begin PBXResourcesBuildPhase section */
+		8D53E314C358B513FBDFFD1A2B9EE526 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A34E0F5E076233FDF299EED4450E835 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DE9DBA6AE7AA8FBC114751EC3EAE509E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
-		66044F4D486DD6531C35431B83718D57 /* Sources */ = {
+		7F64CFB607B98A819DAA4B20169F1848 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DB06BFF47A61E8C7E3A745F7CE9C5E7B /* Pods-MarsRoverTDDTests-dummy.m in Sources */,
+				6E6C31B1F7DF0732B1F15F29B768467C /* Pods-MarsRoverTDD-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B1305B38C6D8AC2B067278399D1B3171 /* Sources */ = {
+		C06C2B1C7C6080601494FF1B52B68693 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CC9DCB860FEBC3ED1861935885C34F70 /* Pods-MarsRoverTDDUITests-dummy.m in Sources */,
+				AA25E99B64297DECE1C66B3C7755830B /* Pods-MarsRoverTDDUITests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CC4BB109B16AF96DDF72C2A8A28516CB /* Sources */ = {
+		D9C7DFF215D11AA8AD85790F5EDE48DB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8FE0BC8A81E77DB302545DC4B9963BCB /* Pods-MarsRoverTDD-dummy.m in Sources */,
+				B6ACB4B870B53101AA86560BD3BF5FE0 /* Pods-MarsRoverTDDTests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		222A8E21248B74D06CA932BDC054631C /* PBXTargetDependency */ = {
+		740747F7111E1FEC5111A497FCDA8298 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-MarsRoverTDD";
-			target = CEA16A7752454F71C4F4DDC171CBB024 /* Pods-MarsRoverTDD */;
-			targetProxy = 6306521893D6A27C23AB66C90B26FFF9 /* PBXContainerItemProxy */;
+			target = 4DD5DFE6739874BEE6678F4F36658F7E /* Pods-MarsRoverTDD */;
+			targetProxy = 7A5C4352A8ECD37142443E71589B7193 /* PBXContainerItemProxy */;
 		};
-		B960AA90A93577A5AE31196F9D9B5AC7 /* PBXTargetDependency */ = {
+		EABE17F1BD234C3E3799C585CF509E0B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-MarsRoverTDD";
-			target = CEA16A7752454F71C4F4DDC171CBB024 /* Pods-MarsRoverTDD */;
-			targetProxy = C3DC7FECE7BB8B600286C4618371122F /* PBXContainerItemProxy */;
+			target = 4DD5DFE6739874BEE6678F4F36658F7E /* Pods-MarsRoverTDD */;
+			targetProxy = 137396825DE8334E09D61D8EFC9C2DEF /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		3F470EF736CD695D05B7AC23635370CF /* Debug */ = {
+		01CADA100FAB4F0AFF4D7ADECF38409F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9D800E8DED4E23EBD671187C41541BA9 /* Pods-MarsRoverTDDTests.debug.xcconfig */;
+			baseConfigurationReference = 7F4A48F0012BE5FA45DF6B8D963DE0FC /* Pods-MarsRoverTDDTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -390,43 +417,13 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-MarsRoverTDDTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-MarsRoverTDDTests/Pods-MarsRoverTDDTests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		4304E1B9DDD86A6F5D53933A4F5AB1B2 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 04913242AAE91D1EF6387AEB0F059FC2 /* Pods-MarsRoverTDDUITests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-MarsRoverTDDUITests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-MarsRoverTDDUITests/Pods-MarsRoverTDDUITests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -441,7 +438,7 @@
 			};
 			name = Release;
 		};
-		5DC0083F57E9AB706B46C5B5D73B38D8 /* Debug */ = {
+		16BC524EDE752B9BB72D7E267116A89A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -495,51 +492,19 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				MTL_ENABLE_DEBUG_INFO = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
 		};
-		A877756B52E3B0A6CCDC370CCBFBBC17 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7F4A48F0012BE5FA45DF6B8D963DE0FC /* Pods-MarsRoverTDDTests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-MarsRoverTDDTests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-MarsRoverTDDTests/Pods-MarsRoverTDDTests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		AEEA80476F98EB645C4DD53EB2BB6D88 /* Release */ = {
+		1DF68876DF2AD07A12482477C1AA7DB8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -591,15 +556,19 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
 		};
-		CB2803C5CA91EB207C3C058A63438349 /* Release */ = {
+		6CBDD079B689D2FCDABEC37228D7F89A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5D686BAF450C340BD500DED3E602D70B /* Pods-MarsRoverTDD.release.xcconfig */;
+			baseConfigurationReference = 04913242AAE91D1EF6387AEB0F059FC2 /* Pods-MarsRoverTDDUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -612,12 +581,16 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-MarsRoverTDD/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-MarsRoverTDDUITests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-MarsRoverTDD/Pods-MarsRoverTDD.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-MarsRoverTDDUITests/Pods-MarsRoverTDDUITests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -632,41 +605,7 @@
 			};
 			name = Release;
 		};
-		DC2F5770615E844A3C169DDBF0D8FB35 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = EE0422BB0E6CB6D9A3DCDDED4B838C21 /* Pods-MarsRoverTDD.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-MarsRoverTDD/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-MarsRoverTDD/Pods-MarsRoverTDD.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		E57EF5740383F817FC34E02A0595257B /* Debug */ = {
+		8A04FCE03AD5AF65D25F10A1FC211F99 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 180CBEB17BBD43BA6C039720CFA3DA6E /* Pods-MarsRoverTDDUITests.debug.xcconfig */;
 			buildSettings = {
@@ -684,7 +623,11 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-MarsRoverTDDUITests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-MarsRoverTDDUITests/Pods-MarsRoverTDDUITests.modulemap";
 				OTHER_LDFLAGS = "";
@@ -700,41 +643,156 @@
 			};
 			name = Debug;
 		};
+		DA8A0D5BFF4878FA276FF1BAF38F5186 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9D800E8DED4E23EBD671187C41541BA9 /* Pods-MarsRoverTDDTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-MarsRoverTDDTests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MarsRoverTDDTests/Pods-MarsRoverTDDTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		DD05B3DDDD6D191ED4DC1926E4CBF784 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EE0422BB0E6CB6D9A3DCDDED4B838C21 /* Pods-MarsRoverTDD.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-MarsRoverTDD/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MarsRoverTDD/Pods-MarsRoverTDD.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		E764BE4680C05E7C0487B7DD38EB0439 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5D686BAF450C340BD500DED3E602D70B /* Pods-MarsRoverTDD.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-MarsRoverTDD/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MarsRoverTDD/Pods-MarsRoverTDD.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1BFB0E53C07E7FC2B87385F52B932AC0 /* Build configuration list for PBXNativeTarget "Pods-MarsRoverTDD" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				DC2F5770615E844A3C169DDBF0D8FB35 /* Debug */,
-				CB2803C5CA91EB207C3C058A63438349 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5DC0083F57E9AB706B46C5B5D73B38D8 /* Debug */,
-				AEEA80476F98EB645C4DD53EB2BB6D88 /* Release */,
+				16BC524EDE752B9BB72D7E267116A89A /* Debug */,
+				1DF68876DF2AD07A12482477C1AA7DB8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A824FF487FE1F910BE3F8007EF4FD2D3 /* Build configuration list for PBXNativeTarget "Pods-MarsRoverTDDTests" */ = {
+		73C20AAA3EAA627779CB42B55ED9017C /* Build configuration list for PBXNativeTarget "Pods-MarsRoverTDDUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3F470EF736CD695D05B7AC23635370CF /* Debug */,
-				A877756B52E3B0A6CCDC370CCBFBBC17 /* Release */,
+				8A04FCE03AD5AF65D25F10A1FC211F99 /* Debug */,
+				6CBDD079B689D2FCDABEC37228D7F89A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CFA153A08A8274FF4B37864BECA20D61 /* Build configuration list for PBXNativeTarget "Pods-MarsRoverTDDUITests" */ = {
+		B006F315C27BDE212C0DF894A04845BA /* Build configuration list for PBXNativeTarget "Pods-MarsRoverTDD" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E57EF5740383F817FC34E02A0595257B /* Debug */,
-				4304E1B9DDD86A6F5D53933A4F5AB1B2 /* Release */,
+				DD05B3DDDD6D191ED4DC1926E4CBF784 /* Debug */,
+				E764BE4680C05E7C0487B7DD38EB0439 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CBADCF23C43BDBC5372A86294B519855 /* Build configuration list for PBXNativeTarget "Pods-MarsRoverTDDTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DA8A0D5BFF4878FA276FF1BAF38F5186 /* Debug */,
+				01CADA100FAB4F0AFF4D7ADECF38409F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
